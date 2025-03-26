@@ -1,11 +1,11 @@
 [
-  { "url":"breath.WAV","type":"audio","bank":"breath","n":0},
-  { "url":"comical.WAV","type":"audio","bank":"comical","n":0},
-  { "url":"comical-2.WAV","type":"audio","bank":"comical","n":1},
-  { "url":"fire.WAV","type":"audio","bank":"fire","n":0},
-  { "url":"fire-2.WAV","type":"audio","bank":"fire","n":1},
-  { "url":"light-upend.WAV","type":"audio","bank":"light","n":0},
-  { "url":"lighter.WAV","type":"audio","bank":"light","n":1},
-  { "url":"steps.WAV","type":"audio","bank":"step","n":0},
-  { "url":"wind.WAV","type":"audio","bank":"wind","n":0}
+  { "url":"breath.WAV","type":"audio","bank":"lady","n":0},
+  { "url":"comical.WAV","type":"audio","bank":"lady","n":1},
+  { "url":"comical-2.WAV","type":"audio","bank":"lady","n":2},
+  { "url":"fire.WAV","type":"audio","bank":"lady","n":3},
+  { "url":"fire-2.WAV","type":"audio","bank":"lady","n":4},
+  { "url":"light-upend.WAV","type":"audio","bank":"lady","n":5},
+  { "url":"lighter.WAV","type":"audio","bank":"lady","n":6},
+  { "url":"steps.WAV","type":"audio","bank":"lady","n":7},
+  { "url":"wind.WAV","type":"audio","bank":"lady","n":8}
 ]
