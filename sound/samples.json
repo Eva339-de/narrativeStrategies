@@ -1,3 +1,11 @@
 [
-  { "url":"test.wav","type":"audio","bank":"test","n":0}
+  { "url":"breath.WAV","type":"audio","bank":"test","n":0},
+  { "url":"comical.WAV","type":"audio","bank":"test","n":0},
+  { "url":"comical-2.WAV","type":"audio","bank":"test","n":0},
+  { "url":"fire.WAV","type":"audio","bank":"test","n":0},
+  { "url":"fire-2.WAV","type":"audio","bank":"test","n":0},
+  { "url":"light-upend.WAV","type":"audio","bank":"test","n":0},
+  { "url":"lighter.WAV","type":"audio","bank":"test","n":0},
+  { "url":"steps.WAV","type":"audio","bank":"test","n":0},
+  { "url":"wind.WAV","type":"audio","bank":"test","n":0}
 ]
