@@ -1,0 +1,11 @@
+[
+  { "url":"one.WAV","type":"audio","bank":"lady2","n":1},
+  { "url":"two.WAV","type":"audio","bank":"lady2","n":2},
+  { "url":"three.WAV","type":"audio","bank":"lady2","n":3},
+  { "url":"four.WAV","type":"audio","bank":"lady2","n":4},
+  { "url":"five.WAV","type":"audio","bank":"lady2","n":5},
+  { "url":"six.WAV","type":"audio","bank":"lady2","n":6},
+  { "url":"seven.WAV","type":"audio","bank":"lady2","n":7},
+  { "url":"eight.WAV","type":"audio","bank":"lady2","n":8},
+  { "url":"nine.WAV","type":"audio","bank":"lady2","n":9}
+]
