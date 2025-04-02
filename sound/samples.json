@@ -9,13 +9,13 @@
   { "url":"steps.WAV","type":"audio","bank":"lady","n":7},
   { "url":"wind.WAV","type":"audio","bank":"lady","n":8},
   
-  { "url":"音频1.WAV","type":"audio","bank":"lady","n":9},
-  { "url":"音频2.WAV","type":"audio","bank":"lady","n":10},
-  { "url":"拥抱.WAV","type":"audio","bank":"lady","n":11},
-  { "url":"拥抱2.WAV","type":"audio","bank":"lady","n":12},
-  { "url":"拥抱3.WAV","type":"audio","bank":"lady","n":13},
-  { "url":"发现动作不致1.WAV","type":"audio","bank":"lady","n":14},
-  { "url":"钢琴.WAV","type":"audio","bank":"lady","n":15},
-  { "url":"拉扯.WAV","type":"audio","bank":"lady","n":16},
-  { "url":"hello.WAV","type":"audio","bank":"lady","n":17}
+  { "url":"one.WAV","type":"audio","bank":"lady","n":9},
+  { "url":"two.WAV","type":"audio","bank":"lady","n":10},
+  { "url":"three.WAV","type":"audio","bank":"lady","n":11},
+  { "url":"four.WAV","type":"audio","bank":"lady","n":12},
+  { "url":"five.WAV","type":"audio","bank":"lady","n":13},
+  { "url":"six.WAV","type":"audio","bank":"lady","n":14},
+  { "url":"seven.WAV","type":"audio","bank":"lady","n":15},
+  { "url":"eight.WAV","type":"audio","bank":"lady","n":16},
+  { "url":"nine.WAV","type":"audio","bank":"lady","n":17}
 ]
