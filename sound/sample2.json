@@ -1,0 +1,11 @@
+[
+  { "url":"音频1.WAV","type":"audio","bank":"lady2","n":1},
+  { "url":"音频2.WAV","type":"audio","bank":"lady2","n":2},
+  { "url":"拥抱.WAV","type":"audio","bank":"lady2","n":3},
+  { "url":"拥抱2.WAV","type":"audio","bank":"lady2","n":4},
+  { "url":"拥抱3.WAV","type":"audio","bank":"lady2","n":5},
+  { "url":"发现动作不致1.WAV","type":"audio","bank":"lady2","n":6},
+  { "url":"钢琴.WAV","type":"audio","bank":"lady2","n":7},
+  { "url":"拉扯.WAV","type":"audio","bank":"lady2","n":8},
+  { "url":"hello.WAV","type":"audio","bank":"lady2","n":9}
+]
