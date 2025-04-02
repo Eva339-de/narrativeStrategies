@@ -7,7 +7,7 @@
   { "url":"light-upend.WAV","type":"audio","bank":"lady","n":5},
   { "url":"lighter.WAV","type":"audio","bank":"lady","n":6},
   { "url":"steps.WAV","type":"audio","bank":"lady","n":7},
-  { "url":"wind.WAV","type":"audio","bank":"lady","n":8}，
+  { "url":"wind.WAV","type":"audio","bank":"lady","n":8},
   
   { "url":"音频1.WAV","type":"audio","bank":"lady","n":9},
   { "url":"音频2.WAV","type":"audio","bank":"lady","n":10},
